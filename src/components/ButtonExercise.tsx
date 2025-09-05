@@ -1,3 +1,4 @@
+import "../styles/button.css"
 import type React from "react";
 import type { ButtonProps } from "../models/ButtonProps.model";
 
